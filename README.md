@@ -1,0 +1,1 @@
+The first 4 blocks import all necessary libraries and define constants. The next few blocks train traditional economic models which we use as a benchmark for the actual implementation. After those blocks, we pretrain and train the VaDE. Finally, we produce several graphs to interpret the results.
